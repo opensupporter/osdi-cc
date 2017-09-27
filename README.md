@@ -3,7 +3,8 @@
 # Guiding Principles
 “For me, forgiveness and compassion are always linked: how do we hold people accountable for wrongdoing and yet at the same time remain in touch with their humanity enough to believe in their capacity to be transformed?”
 ― bell hooks 
-Your intent and your impact may be different, but you are responsible for both.
+
+"Your intent and your impact may be different, but you are responsible for both."
 
 # Social Norms:
 # Well, Actually
