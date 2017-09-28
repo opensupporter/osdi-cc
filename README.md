@@ -26,7 +26,7 @@ We are all part of a society where these -isms are a daily reality and we don't 
 # What to do if you "oops":
 You realized that you "oopsed", now what? 
 
-Someone pointing out that you "oopsed", now what? 
+Someone pointing out that you "ouched" them, now what? 
 
 # What to do if you're "ouched": 
 
