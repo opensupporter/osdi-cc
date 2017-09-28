@@ -24,13 +24,13 @@ Subtle -isms are small things that make others feel unwelcome, things that we al
 # Oops and Ouch
 We are all part of a society where these -isms are a daily reality and we don't have any delusions that we can keep them all from creeping in while we work on hard problems together. Here are some ideas of what to do when you "oops" or are "ouched." This is not the exhaustive list but some ideas of approaches to getting to the other side of conflict. 
 # What to do if you "oops":
-You realized that you "oopsed", now what. 
+You realized that you "oopsed", now what? 
 
-Someone pointing out that you "oopsed", now what. 
+Someone pointing out that you "oopsed", now what? 
 
 # What to do if you're "ouched": 
 
-You were "ouched", now what. 
+You were "ouched", now what? 
 
-Someone realized they "oopsed", now what. 
+Someone realized they "oopsed", now what? 
 
