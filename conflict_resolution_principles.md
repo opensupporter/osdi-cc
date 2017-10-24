@@ -12,7 +12,9 @@ Heresay, gossip, and other non-first hand accounts are set aside.
 
 # Anti-Bullying Protections
 Ad hominem attacks, character assasination, and other non-factual elements are set aside.
-Behind the back attacks are not relevant.  All accusations must be transparently presented to the accused, and the accused must have an opportunity to tell their sire of the story.
+
+# Due Process
+All accusations must be transparently presented to the accused, and the accused must have an opportunity to tell their sire of the story.
 
 # Relevance
 
@@ -22,7 +24,7 @@ The identify and experience of all parties in the conflict shall be considered. 
 # Impact Lens
 While intent, identity and experience may be at play, the process shall also take into consideration the impact of one's action on others shall be considered.
 
-# Proportionality in Consequence
+# Fairness Proportionality in Consequence
 Any conseuqnces or punishment shall be proportionate to the actions and harms caused.
 
 # Restorative
