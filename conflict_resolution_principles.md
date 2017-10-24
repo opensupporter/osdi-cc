@@ -1,5 +1,5 @@
-Conflict Resolution Principles
--------------------------------
+# Conflict Resolution Principles
+
 
 Conflict resolution process within the progressive community should adhere to these principles
 
