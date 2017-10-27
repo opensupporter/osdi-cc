@@ -33,3 +33,7 @@ Consequences should be restorative and inclusive in nature.  No vendettas
 # Inclusive Shared Spaces
 Professional spaces are workplaces where everyone has an inherent right to participate.  When conflicts arise, we aim to resolve those conflicts in an inclusive manner.  We seek to avoid resolving conflicts by inflicting the exclusionary harms we seek to prevent.
 No member of the community has the right to exclude or *control* the participation of any other member.
+
+# Identification of the Aggressor
+Often in conflicts it can be difficult to determine who the aggressor actually is.  Aggression can be overt or covert and not easily seen.  We will make a it a priority to determine who is attempting to control whom.
+
