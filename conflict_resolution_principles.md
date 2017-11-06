@@ -13,6 +13,10 @@ Heresay, gossip, and other non-first hand accounts are set aside.
 # Anti-Bullying Protections
 Ad hominem attacks, character assasination, and other non-factual elements are set aside.
 
+Controlling behavior is not tolerated.  Community members are not permitted to control the relationships and interactions between others.
+
+Definition of Harassment
+
 # Due Process
 All accusations must be transparently presented to the accused, and the accused must have an opportunity to tell their sire of the story.
 
